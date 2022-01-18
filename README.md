@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A full stack developer in developing from Brasil!</h3>
 
-- 🌱 I’m currently learning **Swift, RESTful APIs, Vue.js**
+- 🌱 I’m currently learning **Swift and Objective-C.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quelvis?tab=repositories](https://github.com/quelvis?tab=repositories)
 
