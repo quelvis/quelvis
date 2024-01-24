@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">A full stack developer in developing from Brasil!</h3>
+<h3 align="center">A full stack developer in development from Brasil!</h3>
 
 - 🌱 I’m currently learning **Swift and Objective-C.**
 
